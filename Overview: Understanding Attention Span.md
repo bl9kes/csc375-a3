@@ -1,13 +1,20 @@
 # Overview: Understanding Attention Span
 
-## Introduction
-In the context of cognitive augmentation, **attention span** refers to the duration and consistency with which an individual can sustain mental focus on a task or stimulus. It is a key determinant of learning, productivity, and decision-making effectiveness. Understanding attention span provides insight into how and why focus fluctuates — and how computational systems can be designed to **support and extend** these periods of concentration.
+## What is Attention Span?
+The Oxford dictionary defined **attention span** as the length of time for which a person can concentrate mentally on a particular activity. In the context of cognitive augmentation, **attention span** refers to the use of technology, tools, and or techniques to enhance an individual's ability to sustain mental focus on a task, while resisting distractions. 
 
-Attention span is not fixed; it depends on cognitive load, environmental demands, emotional state, and motivation. Digital environments, in particular, challenge our capacity for sustained attention due to constant notifications, multitasking pressures, and algorithmic interruption patterns. Exploring this subtopic allows us to bridge **psychological theory** and **technological design**, identifying how systems can augment the brain’s natural limits through adaptive feedback and behavioral structuring.
+## Why is it Important?
+**Attention span** is a critical aspect of learning, productivity, and effective decision-making. Understanding how **attention span** works can provide insight into how and why focus fluctuates. Moreover, understanding and utilizing computational systems and tools can support and extend one's ability to stay on task.
+
+## Why does it fluctuate?
+**Attention span** is not consistent or fixed for everyone. Some people are capable of staying focused for long periods of time, while others cannot. There exist a lot of variables like cognitive load, environment, and motivation that impact an individual's **attention span**. Factors such as multitasking pressures, priorities, and interruptions all challenge our capacity for sustained focus.
+Digital environments, in particular, challenge us daily with constant notifications and nd algorithmic interruption patterns. This subtopic is very interesting, and exploration allows us to bridge **psychological theory** and **technological design**.
 
 ---
 
 ## Theoretical Background
+
+
 Research on attention span originates in cognitive psychology and experimental vigilance studies.  
 Classic findings such as the **vigilance decrement** (Mackworth, 1948) show that sustained monitoring performance declines over time due to mental fatigue. Later models, like **Kahneman’s capacity theory (1973)**, framed attention as a limited cognitive resource distributed among competing tasks.
 
