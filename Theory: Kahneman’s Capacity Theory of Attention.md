@@ -47,28 +47,26 @@ Only those that receive both information input and capacity input are fully exec
 When the total demand accross active tasks exceed the capacity performance decreases, leading to inefficienies, reduced accuracy, and sometimes failures.
 ---
 
+## What does this mean for Attention Span?
+Kahneman's model, attention-span is not fixed, it is constantly changging and reflect the balance between avaialable capacity and demand from the task at hand. If demand exceed capacity, problems occurs and attention begins to fade.
 
+There are many factors that impact the balance:
+- The primary factor is the complexity of the task. Those with higher cognitive load demand more attention and deplete resouces more rapidly.
+- The individual's level of motivation is also to a factor. This is ciritical as a motivation to completed meaningful or rewarding task increases capacity and resource allocation.
+- Fatigue and Stress also have an impact; increased stress and fatigue levels reduce total capacity, decreasing abilities.
 
-
-## Implications for Attention Span
-Under Kahneman’s model, attention span is not fixed — it reflects the ongoing balance between **available capacity** and **task demand**.  
-When the demand surpasses capacity, attention falters.  
-Factors that influence this balance include:
-- **Task complexity** — higher cognitive load drains attention faster.  
-- **Motivation** — meaningful or rewarding goals increase resource allocation.  
-- **Fatigue and stress** — reduce the total available capacity.
-
-These insights form the foundation for designing systems that **support sustained attention** by pacing mental effort and preventing overload.
+These insight gained from Kahneman's model forms the foundation for designing systems that upport sustained attention by governing mental effort and preventing mental overload.
 
 ---
 
 ## Design Implications for Cognitive Augmentation
-Understanding attention as a capacity-based system has practical value for cognitive augmentation design:
-- **Timeboxing and Pomodoro tools** help users manage effort by segmenting work and recovery cycles.  
-- **Adaptive focus systems** could monitor indicators of mental load and prompt timely breaks or refocusing cues.  
-- **Gamified environments** can temporarily boost motivation, expanding the effective capacity available for attention.
+Kahneman's theory and models provides a foundation for designing tools that align with how human attention actually operates, as a limited, allocable mental resource. Rather than trying to overcome biological limits, cognitive augmentation systems should help users manage and optimize their finite capacity.
 
-In this way, technology can be designed not to override human limits, but to **help users manage their finite attention resources** more effectively.
+### Cognitive Augmentatioon Tools and Systems
+- **Timeboxing and Pomodoro tools** help users manage effort by segmenting work by cognitive load and determining recovery cycles.  
+- **Gamified environments** can temporarily boost motivation and arousal, expanding the effective capacity available for sustained attention.
+
+In this way, technology can support and increase attention span by guiding the allocation of mental effort rather than overwhelming it, through rhythm, feedback, and intentional recovery periods.
 
 ---
 
@@ -82,9 +80,3 @@ In this way, technology can be designed not to override human limits, but to **h
 ## References
 - Kahneman, D. (1973). *Attention and Effort.* Prentice Hall.
 
----
-
-**Summary:**  
-Kahneman’s Capacity Theory of Attention explains that focus is sustained only while mental resources remain sufficient for task demands.  
-When those resources are depleted — through fatigue, overload, or distraction — attention wanes.  
-By applying this model, designers and researchers can create systems that respect human limits while supporting longer, more sustainable periods of concentration.
