@@ -33,19 +33,8 @@ Automatically bolds the first half of selected keywords to guide the reader's at
 Allows personalized user experience with adjustments to line, word and character spacing to their personal liking. Supports custom font size and weight.
 
 
-
-### How it works
-The system
-
-- **Text Summarization:** The T5 model converts lengthy text into concise, context-aware summaries, helping readers maintain engagement without cognitive overload.  
-- **Bionic Reading Integration:** The tool uses partial word bolding to guide eye movement and highlight key information, reducing mental fatigue.  
-- **Personalization:** Adjustable line, word, and character spacing enable each user to fine-tune visual presentation for comfort and sustained focus.  
-- **Accessibility:** Developed for web deployment, it supports real-world use across educational and professional contexts.
-
 ### Results and Significance
-Testing with university students showed measurable improvements in **reading speed and comprehension**, especially among those with ADHD and short attention spans.  
-By combining **natural language processing (NLP)** and **user interface design**, this project demonstrates that **attention enhancement can occur through intelligent presentation**, not just behavioral conditioning or pharmacological means.  
-It suggests a scalable, software-based approach for promoting focus in digital learning environments.
+The system displayed improved reading speed and comprehension in test users, especially among those with ADHD and attention span concerns. The users also reported that they experience enhanced readability due to the customizable options. By combining natural language processing and user interface design, the project effectively demonstrated cognitive augmentation with enhanced attention. The findings are significant as they suggest that a scalable, software-based approach for promoting focus in a digital environment is more than possible.
 
 ---
 
