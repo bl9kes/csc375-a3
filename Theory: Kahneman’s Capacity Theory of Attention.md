@@ -23,6 +23,8 @@ Each acticity requires two inputs:
 ## Key Machanism of the Model
 Kahneman’s model is a control diagram (Figure 1.2) that describes the relations of influence and control between components of a system.
 
+<img width="586" height="516" alt="image" src="https://github.com/user-attachments/assets/ff942e31-4561-4d74-b4a3-f1041f9481c2" />
+
 ### 1. Avalable Capacity and Arousal
 Arousal determines the available capacity at a given time.
 Arousal and Effort fluctuate together:
