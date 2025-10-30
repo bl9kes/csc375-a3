@@ -7,30 +7,32 @@ These tools externalize self-regulation, which allows individuals to manage thei
 
 ---
 
-## What is Timeboxing?
+## Timeboxing
 **Timeboxing** is a time management strategy that involves allocation a fixed, maximum amount of time to a specific task.
 This unit of time is called a timebox, and within this box of time an individual is to work on a specific task.
 When this time is over, working on this task must come to an end, regardless of completion, and focus is shifted to a new one.
 
-### What are the Cognitive Benefits?
+### Cognitive Benefits?
 By defining a clear temporal boundary, Timeboxing effectively improves focus, efficiency, and productivity by limiting procrastination and perfectionism. 
 
-Specific Benefits include:
+Specific benefits include:
 - **Reduces decision fatigue:** Limiting task switching and ambiguity about the next task miminizes decision making, in return reducing mental fatigue.
 - **Supports efficient resource allocation:** Pre-determined work periods for a task reduces mental workload. Aligns with Kahneman’s model by preventing attention overload.  
-- **Provide a sense of reward:** Completing a time block triggers a psychological sense of accomplishment that reinforces focus habits, leading to more productive and efficient sessions.
+- **Provides a sense of reward:** Completing a time block triggers a psychological sense of accomplishment that reinforces focus habits, leading to more productive and efficient sessions.
 
 ---
 
-## What is The Pomodoro Technique
+## The Pomodoro Technique
 
-
-
-The **Pomodoro Technique** (developed by Francesco Cirillo in the 1980s) refines Timeboxing into short cycles — typically **25 minutes of focused work followed by a 5-minute break**.  
-After four cycles, a longer rest is taken.  
-This rhythm of focused effort and scheduled rest mirrors natural fluctuations in attention and cognitive energy.
+The **Pomodoro Technique** developed by Francesco Cirillo is a time-management method that utilizes a timer to divide work periods into **25-minute** focus sessions seperated by **5-minute** breaks. After four cycles, a long rest of 15 to 20-minutes is taken. Developped in the 1980's the technique refines Timeboxing into short cycles, with determined break periods, aiming to improve focus, reduce procrastination, and prevent burnout. 
 
 ### Why It Works
+The Pomodoro Technique is effective as the rhythm of focused effort and scheduled rest mirrors natural fluctuations in attention and cognitive energy, which also a happends to align with Kahneman's model by preventing attention overload.
+
+
+
+
+Specific benefits include:
 - **Manages limited capacity:** Prevents depletion by pacing cognitive effort across sessions.  
 - **Builds sustained attention:** Regular intervals condition the brain to engage deeply for short periods, effectively extending usable attention span over time.  
 - **Restores motivation:** Frequent breaks reduce fatigue and maintain arousal levels, aligning with the Yerkes–Dodson principle of optimal performance.
