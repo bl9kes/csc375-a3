@@ -16,11 +16,19 @@ These innovations mark the beginning of a promising future in optimizing the lim
 ---
 
 
-## AI-Powered Speed Reading for Short Attention Spans
-Yusri and colleagues (2023) developed an **AI-based speed reading tool** designed to support students with ADHD, dyslexia, or short attention spans.  
-Built using the **Text-to-Text Transfer Transformer (T5)** model and deployed through a **Flask web interface**, the system summarizes long texts while emphasizing key phrases through **half-word bolding** and customizable spacing.  
+## Speed Reading Tool Powered by Artificial Intelligence 
+Developed by Yusri et al. at Universiti Teknologi Malaysia in 2023, an AI-powered speed reading tool designed to support students with ADHD, dyslexia, or short attention spans. The system combines Natural Language Processing with a web-based interface to summarize long texts while emphasizing key phrases through half-word bolding and customizable spacing to help improve reading speed and information comprehension.
 
 ### Key Features
+-  Text-to-Text Transfer Transformer
+-  Multilayer Perceptron (MLP)
+-  Custom half-word bolding
+-  Customizable word spacing
+-  Flask backend framework
+
+### How it works
+The system
+
 - **Text Summarization:** The T5 model converts lengthy text into concise, context-aware summaries, helping readers maintain engagement without cognitive overload.  
 - **Bionic Reading Integration:** The tool uses partial word bolding to guide eye movement and highlight key information, reducing mental fatigue.  
 - **Personalization:** Adjustable line, word, and character spacing enable each user to fine-tune visual presentation for comfort and sustained focus.  
