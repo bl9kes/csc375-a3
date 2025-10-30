@@ -20,11 +20,19 @@ These innovations mark the beginning of a promising future in optimizing the lim
 Developed by Yusri et al. at Universiti Teknologi Malaysia in 2023, an AI-powered speed reading tool designed to support students with ADHD, dyslexia, or short attention spans. The system combines Natural Language Processing with a web-based interface to summarize long texts while emphasizing key phrases through half-word bolding and customizable spacing to help improve reading speed and information comprehension.
 
 ### Key Features
--  Text-to-Text Transfer Transformer
--  Multilayer Perceptron (MLP)
--  Custom half-word bolding
--  Customizable word spacing
--  Flask backend framework
+#### AI Text Summarization
+Utilizes the T5 model Text-to-Text Transfer Transformer to convert lengthy texts into concise summaries that capture key ideas.
+
+#### Multilayer Perceptron (MLP)
+Supports deeper concept understanding and decision making, handling complex summarizations and keyword selection efficiently.
+
+#### Half-word Bolding
+Automatically bolds the first half of selected keywords to guide the reader's attention. Aims to help the reader identify important phrases quickly while improving retention.
+
+#### Customizable Text Formatting
+Allows personalized user experience with adjustments to line, word and character spacing to their personal liking. Supports custom font size and weight.
+
+
 
 ### How it works
 The system
