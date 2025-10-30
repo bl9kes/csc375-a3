@@ -12,7 +12,7 @@ These tools externalize self-regulation, which allows individuals to manage thei
 This unit of time is called a timebox, and within this box of time an individual is to work on a specific task.
 When this time is over, working on this task must come to an end, regardless of completion, and focus is shifted to a new one.
 
-### Cognitive Benefits?
+### Cognitive Benefits
 By defining a clear temporal boundary, Timeboxing effectively improves focus, efficiency, and productivity by limiting procrastination and perfectionism. 
 
 Specific benefits include:
@@ -29,34 +29,27 @@ The **Pomodoro Technique** developed by Francesco Cirillo is a time-management m
 ### Why It Works
 The Pomodoro Technique is effective as the rhythm of focused effort and scheduled rest mirrors natural fluctuations in attention and cognitive energy, which also a happends to align with Kahneman's model by preventing attention overload.
 
-
-
-
 Specific benefits include:
-- **Manages limited capacity:** Prevents depletion by pacing cognitive effort across sessions.  
+- **Distributes mental capacity:** Prevents depletion by pacing cognitive effort across sessions and provides a break to help replenish.
 - **Builds sustained attention:** Regular intervals condition the brain to engage deeply for short periods, effectively extending usable attention span over time.  
 - **Restores motivation:** Frequent breaks reduce fatigue and maintain arousal levels, aligning with the Yerkes–Dodson principle of optimal performance.
-
-### Design Example
-Modern focus tools like **Forest**, **Focus Booster**, and **Tide** integrate Pomodoro-like timing systems with behavioral feedback — visualizing progress, rewarding consistency, and logging focus sessions.  
-These digital implementations act as *cognitive scaffolds*, augmenting human attention by managing effort, feedback, and motivation externally.
 
 ---
 
 ## Cognitive Augmentation Perspective
-From the standpoint of cognitive augmentation, Timeboxing and Pomodoro systems:
-- **Externalize self-control** → shifting regulation of attention from internal effort to structured environmental cues.  
-- **Embed metacognition** → users monitor their focus cycles and adjust based on reflection.  
-- **Integrate feedback loops** → real-time metrics (timers, progress bars, streaks) reinforce sustained engagement.
+In terms of cognitive augmentation, Timeboxing and Pomodoro systems are effective for the following reasons:
+- **Externalize self-control** - Timeboxing converts abstract intentions into temporal boundaries. This shifts regulation from internal motivation to external cues, reducing cognitive effort of self-control and improving productivity.
+- **Embed metacognition** - Both systsm promote self-reflection, where users monitor their focus cycles and make adjust based on observations of their cognitive limits.  
+- **Integrate feedback loops** - The inclusion of real-time metrics provide immediate feedback keeping the user within their optimal zone of effort, reinforcing sustained engagement and aligning with Kahneman's arousal-capacity link.
 
-These techniques do not expand total cognitive capacity, but they **optimize how limited attention is deployed**, making them powerful examples of *behavioral augmentation* rooted in cognitive theory.
+These techniques are not designed to increase total cognitive capacity, but rather to optimize how attention is spent, making them both powerful examples of behavioral augmentation.
 
 ---
 
 ## Connections
-- [**Theory: Kahneman’s Capacity Theory of Attention**](Theory.md) — explains the limited capacity model these tools address.  
-- [**Overview: Understanding Attention Span**](Overview.md) — contextualizes the need for structured attention management.  
-- [**Future Directions: Adaptive Attention Systems**](Future_Directions.md) — explores emerging technologies that automate time-based focus regulation.
+- [**Theory: Kahneman’s Capacity Theory of Attention**](Theory.md) — Explains the limited capacity model these tools address.  
+- [**Overview: Understanding Attention Span**](Overview.md) — Contextualizes the need for structured attention management.  
+- [**Future Directions: Adaptive Attention Systems**](Future_Directions.md) — Explores emerging technologies that automate time-based focus regulation.
 
 ---
 
@@ -65,7 +58,3 @@ These techniques do not expand total cognitive capacity, but they **optimize how
 - Cirillo, F. (2006). *The Pomodoro Technique.* Francesco Cirillo Consulting.
 
 ---
-
-**Summary:**  
-Timeboxing and the Pomodoro Technique translate cognitive theory into actionable practice.  
-By structuring effort into intervals that match the brain’s natural capacity rhythms, these tools reduce overload, sustain motivation, and extend effective attention span — achieving cognitive augmentation through rhythm, rest, and self-regulated feedback.
