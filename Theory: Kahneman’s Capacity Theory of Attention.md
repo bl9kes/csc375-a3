@@ -73,9 +73,11 @@ In this way, technology can support and increase attention span by guiding the a
 ---
 
 ## Connections
-- [**Overview: Understanding Attention Span**](Overview.md) — introduces the concept of sustained focus and influencing factors.  
-- [**Tool: Timeboxing and The Pomodoro Technique**](Tool: Timeboxing and Pomodoro.md) - applies this theory to real-world techniques for pacing attention.  
-- [**Future Directions: Adaptive Attention Systems**](Future_Directions.md) — explores how technology can detect and adapt to changing cognitive capacity.
+[Overview: Understanding Attention Span](Overview - Understanding Attention Span.md) — introduces the concept of sustained focus, the cognitive mechanisms that underlie attention, and the factors that influence its duration.
+
+[Tool: Timeboxing and The Pomodoro Technique](Tool - Timeboxing and Pomodoro.md) — applies Kahneman’s Capacity Theory to practical techniques that structure and regulate mental effort across focus cycles.
+
+[Future Directions: Adaptive Attention Systems](Future Directions - Adaptive Attention Systems.md) — explores emerging neuroadaptive technologies and AI-driven methods that monitor and dynamically adjust to individual fluctuations in cognitive capacity.
 
 ---
 
