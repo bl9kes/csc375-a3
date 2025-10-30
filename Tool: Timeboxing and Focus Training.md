@@ -1,25 +1,31 @@
 # Tool: Timeboxing and Focus Training
 
-## Introduction
-Because attention operates as a **limited-capacity system** (Kahneman, 1973), sustained focus cannot be maintained indefinitely.  
-Techniques such as **Timeboxing** and the **Pomodoro Technique** address this limitation by structuring time into manageable work intervals that balance effort and recovery.  
-These tools externalize self-regulation — allowing individuals to manage their cognitive resources proactively instead of reactively.
+## How Can You Improve Attention Span?
+Attention is a resources with limited capacity (Kahneman, 1973), beacuse of this, the amount of time an individual can remain focused cannot be indefinite. However, there is exist techniques and tools to help improve the limiations of attention span. The techniques of Timeboxing and the Pomodoro comee to mind. Both of these techniques utilize dividing time into managable work and break intervals that balance effort and recovery, with the end goal of maximizing efficientcy and sustained attention.
+
+These tools externalize self-regulation, which allows individuals to manage their cognitive resources in a matter that prioritizes a proactive approach rather than reactive.
 
 ---
 
-## Timeboxing: Structuring Attention
-**Timeboxing** is a productivity method that allocates fixed time blocks to specific tasks.  
-Within each block, the individual commits to focusing exclusively on one activity until the timer ends.  
-By defining a clear temporal boundary, Timeboxing creates a sense of urgency, minimizes procrastination, and prevents overextension of mental effort.
+## What is Timeboxing?
+**Timeboxing** is a time management strategy that involves allocation a fixed, maximum amount of time to a specific task.
+This unit of time is called a timebox, and within this box of time an individual is to work on a specific task.
+When this time is over, working on this task must come to an end, regardless of completion, and focus is shifted to a new one.
 
-### Cognitive Benefits
-- **Reduces decision fatigue:** Limits task switching and ambiguity about what to do next.  
-- **Supports efficient resource allocation:** Aligns with Kahneman’s model by preventing attention overload.  
-- **Promotes closure and reward:** Completing a time block triggers a psychological sense of accomplishment that reinforces focus habits.
+### What are the Cognitive Benefits?
+By defining a clear temporal boundary, Timeboxing effectively improves focus, efficiency, and productivity by limiting procrastination and perfectionism. 
+
+Specific Benefits include:
+- **Reduces decision fatigue:** Limiting task switching and ambiguity about the next task miminizes decision making, in return reducing mental fatigue.
+- **Supports efficient resource allocation:** Pre-determined work periods for a task reduces mental workload. Aligns with Kahneman’s model by preventing attention overload.  
+- **Provide a sense of reward:** Completing a time block triggers a psychological sense of accomplishment that reinforces focus habits, leading to more productive and efficient sessions.
 
 ---
 
-## The Pomodoro Technique
+## What is The Pomodoro Technique
+
+
+
 The **Pomodoro Technique** (developed by Francesco Cirillo in the 1980s) refines Timeboxing into short cycles — typically **25 minutes of focused work followed by a 5-minute break**.  
 After four cycles, a longer rest is taken.  
 This rhythm of focused effort and scheduled rest mirrors natural fluctuations in attention and cognitive energy.
