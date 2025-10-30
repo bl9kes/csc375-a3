@@ -1,19 +1,20 @@
 # Future Directions: AI-Driven Cognitive Tools for Enhancing Attention Span
 
 ## Introduction
-Improving **attention span** is bright. With the advancement in artificial intelligence, we believe that improvement techniques will diverge from motivation and behavioural tactics, and AI-driven systems will grow in popularity and effectiveness. Researchers have already begun to experiment with the idea of AI-driven systems that can understand and adapt to individual cognitive limits.
+The future of improving **attention span** is bright. With the advancement in artificial intelligence, we believe that improvement techniques will diverge from motivation and behavioural tactics, and AI-driven systems will grow in popularity and effectiveness. Researchers have already begun to experiment with the idea of AI-driven systems that can understand and adapt to individual cognitive limits.
 
 Recent developments in AI have shown two complementary methods to improve attention span.
 
-### Software-based AI Systems
+#### Software-based AI Systems
 Yusri et al. (2023) at Universiti Teknologi Malaysia developed an adaptive learning system that utilizes AI to enhance attention.
 
-### Hardware-based AI Systems
+#### Hardware-based AI Systems
 Cohen Kadosh et al. (2025) explored neuroadaptive hardware capable of directly modulating brain activity to improve sustained focus
 
-Together, these innovations point toward a future in which **AI personalizes both the digital environment and neural activity** to sustain attention in an increasingly distracting world.
+These innovations mark the beginning of a promising future in optimizing the limited and valuable resource of human attention. Together, they highlight the potential of AI—both in digital and neuroadaptive forms- to enhance sustained focus.
 
 ---
+
 
 ## AI-Powered Speed Reading for Short Attention Spans
 Yusri and colleagues (2023) developed an **AI-based speed reading tool** designed to support students with ADHD, dyslexia, or short attention spans.  
