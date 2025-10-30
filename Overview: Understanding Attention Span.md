@@ -3,10 +3,10 @@
 ## What is Attention Span?
 The Oxford Dictionary defines **attention span** as the length of time for which a person can concentrate mentally on a particular activity. In the context of cognitive augmentation, **attention span** refers to the use of technology, tools, and techniques to enhance an individual's ability to sustain mental focus on a task while resisting distractions. 
 
-## Why is it Important?
+## Why is it important?
 **Attention span** is a critical aspect of learning, productivity, and effective decision-making. Understanding how **attention span** works provides insight into how and why focus fluctuates. Moreover, computational systems and tools can support and extend one's ability to stay on task.
 
-## Why Does It Fluctuate?
+## Why does it fluctuate?
 **Attention span** is not consistent or fixed for everyone. Some individuals can stay focused for extended periods, while others cannot. Multiple variables, such as cognitive load, environment, and motivation, affect an individual's **attention span**. Factors such as multitasking pressures, priorities, and interruptions all challenge our capacity for sustained focus.
 Digital environments, in particular, challenge us daily with constant notifications and algorithmic interruption patterns. This subtopic is especially interesting because it connects **psychological theory** and **technological design**.
 
@@ -18,7 +18,7 @@ Research on attention span began in cognitive psychology and experimental vigila
 ---
 
 ## Relevance to Cognitive Augmentation
-Understanding attention as a limited and allocable resource provides a framework for designing tools that support and optimize mental effort. Techniques such as Timeboxing and the Pomodoro Technique exemplify this approach. They work by externalizing self-regulation through transforming internal effort into structured cycles of focus and rest, and by creating feedback loops that encourage users to monitor success and make adjustments.
+Understanding attention as a limited and allocable resource provides a framework for designing tools that support and optimize mental effort. Techniques such as Timeboxing and the Pomodoro Technique exemplify this approach. They work by externalizing self-regulation by transforming internal effort into structured cycles of focus and rest, and by creating feedback loops that encourage users to monitor success and make adjustments.
 
 Looking forward, research in this field demonstrates both software and hardware approaches to the technological enhancement of focus, which complement each other effectively. More specifically, Yusri et al. (2023) developed a software-based system that uses AI to adapt reading interfaces to individual needs and preferences, improving focus and comprehension. In contrast, Cohen Kadosh et al. (2025) explored a hardware-based neuroadaptive system that applies personalized brain stimulation to modulate cognitive capacity. Overall, future studies show promise in adaptive attention systems that offer real-time adjustment and personalized optimization of focus.
 
