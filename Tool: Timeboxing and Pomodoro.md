@@ -1,4 +1,4 @@
-# Tool: Timeboxing and Focus Training
+# Tool: Timeboxing and The Pomodoro Technique
 
 ## How Can You Improve Attention Span?
 Attention is a resources with limited capacity (Kahneman, 1973), beacuse of this, the amount of time an individual can remain focused cannot be indefinite. However, there is exist techniques and tools to help improve the limiations of attention span. The techniques of Timeboxing and the Pomodoro comee to mind. Both of these techniques utilize dividing time into managable work and break intervals that balance effort and recovery, with the end goal of maximizing efficientcy and sustained attention.
