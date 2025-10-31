@@ -33,10 +33,10 @@ Arousal and Effort fluctuate together:
 
 ### 2. Allocation Policy
 Kahneman's model proposed that attention is allocated according to an internal policy influenced by:
-- **Enduring dispositions** — automatic attention to novel or significant stimuli. 
-- **Momentary intentions** — conscious goals.  
-- **Evaluation of demands** — if total demand exceeds capacity, one task is prioritized or completed first.  
-- **Arousal effects** — higher arousal shifts how attention is distributed across tasks.
+- **Enduring dispositions** - automatic attention to novel or significant stimuli. 
+- **Momentary intentions** - conscious goals.  
+- **Evaluation of demands** - if total demand exceeds capacity, one task is prioritized or completed first.  
+- **Arousal effects** - higher arousal shifts how attention is distributed across tasks.
 
 This flexibility allows people to adapt attention dynamically, but it also leads to increased vulnerability to interruptions.
 
