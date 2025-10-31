@@ -40,9 +40,9 @@ This overview serves as the foundation for the sub-notes in this cluster:
 - [**Future Directions: AI-Driven Cognitive Tools for Enhancing Attention Span**](Future_Directions.md)  
 
 It also links conceptually to other subtopics in the larger vault:
-- [**Neuroscience of Focus**](../Neuroscience/Overview.md) — examines neural mechanisms that sustain or fail to sustain focus.  
-- [**Gamification of Focus**](../Gamification/Overview.md) — explores motivational reinforcement as a method to extend attention.  
-- [**Distractions**](../Distractions/Overview.md) — analyzes environmental and digital factors that fragment attention.
+- [**Neuroscience of Focus**](../Neuroscience/Overview.md) - examines neural mechanisms that sustain or fail to sustain focus.  
+- [**Gamification of Focus**](../Gamification/Overview.md) - explores motivational reinforcement as a method to extend attention.  
+- [**Distractions**](../Distractions/Overview.md) - analyzes environmental and digital factors that fragment attention.
 
 ---
 
