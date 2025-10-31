@@ -11,7 +11,7 @@ Yusri et al. (2023) at Universiti Teknologi Malaysia developed an adaptive learn
 #### Hardware-based AI Systems
 Cohen Kadosh et al. (2025) explored neuroadaptive hardware capable of directly modulating brain activity to improve sustained focus.
 
-These innovations mark the beginning of a promising future in optimizing the limited and valuable resource of human attention. Together, they highlight the potential of AI—both in digital and neuroadaptive forms to enhance sustained focus.
+These innovations mark the beginning of a promising future in optimizing the limited and valuable resource of human attention. Together, they highlight the potential of AI, both in digital and neuroadaptive forms, to enhance sustained focus.
 
 ---
 
@@ -78,7 +78,7 @@ Together, these studies highlight complementary methods toward enhancing attenti
 
 Both approaches to cognitive augmentation emphasize the importance of personalized, adaptive systems in extending attention. This indicates that information delivery and intake is not a one-size-fits-all all and the ability to personalize it supports focus and optimized learning. 
 
-Future directions in this field point toward hybrid systems that combine neurophysiological insight with contextual awareness—helping individuals stay engaged, informed, and mentally balanced.
+Future directions in this field point toward hybrid systems that combine neurophysiological insight with contextual awareness-helping individuals stay engaged, informed, and mentally balanced.
 
 ---
 
