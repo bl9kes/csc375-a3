@@ -14,7 +14,7 @@ These tools externalize self-regulation, which allows individuals to manage thei
 By defining a clear temporal boundary, Timeboxing effectively improves focus, efficiency, and productivity by limiting procrastination and perfectionism. 
 
 Specific benefits include:
-- **Reduces decision fatigue:** Limiting task switching and ambiguity about what to do next minimizes decision making, in return reducing mental fatigue.
+- **Reduces decision fatigue:** Limiting task switching and ambiguity about what to do next minimizes decision-making, in return reducing mental fatigue.
 - **Supports efficient resource allocation:** Predetermined work periods for a task reduce mental workload and align with Kahneman’s model by preventing attention overload.  
 - **Provides a sense of reward:** Completing a time block triggers a psychological sense of accomplishment, reinforcing focused habits and motivation.
 
@@ -30,7 +30,7 @@ The Pomodoro Technique is effective as the rhythm of focused effort and schedule
 Specific benefits include:
 - **Distributes mental capacity:** Prevents depletion by pacing cognitive effort across sessions and provides a recovery period to replenish mental energy.
 - **Builds sustained attention:** Regular intervals condition the brain to engage deeply for short periods, gradually extending usable attention span over time.  
-- **Restores motivation:** Frequent breaks reduce fatigue and maintain arousal levels, aligning with the Yerkes–Dodson law of optimal arousal.
+- **Restores motivation:** Frequent breaks reduce fatigue and maintain arousal levels, aligning with the Yerkes-Dodson law of optimal arousal.
 
 ---
 
@@ -45,9 +45,9 @@ These techniques are not designed to increase total cognitive capacity, but rath
 ---
 
 ## Connections
-- [**Theory: Kahneman’s Capacity Theory of Attention**](Theory.md) — Explains the limited capacity model these tools address.  
-- [**Overview: Understanding Attention Span**](Overview.md) — Contextualizes the need for structured attention management.  
-- [**Future Directions: Adaptive Attention Systems**](Future_Directions.md) — Explores emerging technologies that automate time-based focus regulation.
+- [**Theory: Kahneman’s Capacity Theory of Attention**](Theory.md) - Explains the limited capacity model these tools address.  
+- [**Overview: Understanding Attention Span**](Overview.md) - Contextualizes the need for structured attention management.  
+- [**Future Directions: Adaptive Attention Systems**](Future_Directions.md) - Explores emerging technologies that automate time-based focus regulation.
 
 ---
 
